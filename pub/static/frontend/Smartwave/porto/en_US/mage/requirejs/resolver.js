@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/shopianew/lib/web/mage/requirejs/resolver.js

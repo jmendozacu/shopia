@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/shopianew/lib/web/jquery/spectrum/spectrum.js

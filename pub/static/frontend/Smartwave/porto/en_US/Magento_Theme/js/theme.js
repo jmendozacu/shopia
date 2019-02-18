@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/shopianew/app/design/frontend/Smartwave/porto/Magento_Theme/web/js/theme.js

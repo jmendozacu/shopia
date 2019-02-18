@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/shopianew/app/design/frontend/Smartwave/porto/WeltPixel_Quickview/web/js/weltpixel_quickview.js

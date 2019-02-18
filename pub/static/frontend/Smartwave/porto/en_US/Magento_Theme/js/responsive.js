@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/shopianew/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/responsive.js

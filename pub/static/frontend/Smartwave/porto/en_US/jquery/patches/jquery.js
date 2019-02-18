@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/shopianew/lib/web/jquery/patches/jquery.js

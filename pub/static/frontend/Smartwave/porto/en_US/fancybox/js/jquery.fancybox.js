@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/shopianew/app/design/frontend/Smartwave/porto/web/fancybox/js/jquery.fancybox.js
